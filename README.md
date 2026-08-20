@@ -66,16 +66,8 @@ Interactive Power BI model analyzing $1.46B in airline revenue from 6 fragmented
 
 ---
 
-### 📈 GitHub Stats
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedkhedr-xrs&show_icons=true&theme=default&hide_border=true&title_color=2E86C1&icon_color=2E86C1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkhedr-xrs&layout=compact&hide_border=true&title_color=2E86C1&langs_count=8" />
-
-</div>
-
----
 
 ### 📫 Let's Connect
 
